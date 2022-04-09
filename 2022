@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", Scooby Doo
+#EXTINF:0 type="stream" channelId="-1" group="Ciencia Ficcion" background="https://www.googleapis.com/drive/v3/files/1zeWwhptdh5VXfjTvSZpcvVa2Zkxym3d0?alt=media&key=AIzaSyAq7raZjScAq2uAGVdkYlqEgxgQoMS4uZA", Scooby Doo
 https://www.googleapis.com/drive/v3/files/1jFJL5fQ-gPS1lkG5Wr-SCsVK8ZrTHx2X?key=AIzaSyDZEWZklaYgsCnEVpU3wNpulV3zF4GW3gg&alt=media
 #EXTINF:0 type="stream" channelId="-1", AVENGERS ENDGAME
 https://www.googleapis.com/drive/v3/files/15xfVITLJMipVG4-idnT-hi65XUr3JQnm?alt=media&key=AIzaSyAq7raZjScAq2uAGVdkYlqEgxgQoMS4uZA
