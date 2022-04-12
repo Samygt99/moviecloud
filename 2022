@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group="Ciencia Ficcion" background="https://www.googleapis.com/drive/v3/files/1zeWwhptdh5VXfjTvSZpcvVa2Zkxym3d0?alt=media&key=AIzaSyAq7raZjScAq2uAGVdkYlqEgxgQoMS4uZA", Scooby Doo
+
+#EXTINF:0 group="Animacion" background="https://www.googleapis.com/drive/v3/files/1lZxfYe_P1N01HPr93L69CzTP-FcVJSqf?alt=media&key=AIzaSyAq7raZjScAq2uAGVdkYlqEgxgQoMS4uZA", Scooby Doo
 https://www.googleapis.com/drive/v3/files/1jFJL5fQ-gPS1lkG5Wr-SCsVK8ZrTHx2X?key=AIzaSyDZEWZklaYgsCnEVpU3wNpulV3zF4GW3gg&alt=media
-#EXTINF:0 type="stream" channelId="-1", AVENGERS ENDGAME
+
+#EXTINF:0 group="Ciencia Ficcion" background="https://www.googleapis.com/drive/v3/files/1auQ0h49RycfrnfEHYa_j2hkv_pDXhB_x?alt=media&key=AIzaSyAq7raZjScAq2uAGVdkYlqEgxgQoMS4uZA", AVENGERS ENDGAME
 https://www.googleapis.com/drive/v3/files/15xfVITLJMipVG4-idnT-hi65XUr3JQnm?alt=media&key=AIzaSyAq7raZjScAq2uAGVdkYlqEgxgQoMS4uZA
-#EXTINF:0 type="stream" channelId="-1", Aladdin
+
+#EXTINF:0 group="Familiar" background="https://www.googleapis.com/drive/v3/files/1zOcIG8tUY0axbpt8Q8tT9t0tlSMZqxiP?alt=media&key=AIzaSyAq7raZjScAq2uAGVdkYlqEgxgQoMS4uZA", Aladdin
 https://www.googleapis.com/drive/v3/files/1ODMqlPMXZEeBYjh8lfN94EnsmK5BoG7B?alt=media&key=AIzaSyAq7raZjScAq2uAGVdkYlqEgxgQoMS4uZA
-#EXTINF:0 type="stream" channelId="-1" group="Animacion" background="https://www.googleapis.com/drive/v3/files/1zeWwhptdh5VXfjTvSZpcvVa2Zkxym3d0?alt=media&key=AIzaSyAq7raZjScAq2uAGVdkYlqEgxgQoMS4uZA", Scooby Doo
-https://www.googleapis.com/drive/v3/files/1jFJL5fQ-gPS1lkG5Wr-SCsVK8ZrTHx2X?key=AIzaSyDZEWZklaYgsCnEVpU3wNpulV3zF4GW3gg&alt=media
+
+#EXTINF:0 group="Animacion" background="https://www.googleapis.com/drive/v3/files/1OHXRgc_IUFRxBFLk4zEKInZKPyhPIU50?alt=media&key=AIzaSyAq7raZjScAq2uAGVdkYlqEgxgQoMS4uZA", Turning Red
+https://www.googleapis.com/drive/v3/files/1BtWY4edNpzw2h3JRixWuPrnIfwrMp4Ba?alt=media&key=AIzaSyAq7raZjScAq2uAGVdkYlqEgxgQoMS4uZA
